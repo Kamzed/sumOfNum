@@ -1,3 +1,3 @@
 # sumOfNum
-##Test task 1
+## Test task 1
 (https://kamzed.github.io/sumOfNum/)
